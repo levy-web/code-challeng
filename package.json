@@ -1,0 +1,22 @@
+{
+  "name": "code-challeng",
+  "version": "1.0.0",
+  "description": "javascript programs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levy-web/code-challeng.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "levy muguro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levy-web/code-challeng/issues"
+  },
+  "homepage": "https://github.com/levy-web/code-challeng#readme"
+}
