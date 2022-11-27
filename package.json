@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/levy-web/code-challeng/issues"
   },
-  "homepage": "https://github.com/levy-web/code-challeng#readme"
+  "homepage": "https://github.com/levy-web/code-challeng#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
