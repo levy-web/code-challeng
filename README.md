@@ -11,3 +11,6 @@ Third promts user credit information then it calculates paye and net salary
 # Authors
 This project was contributed to by:
 https://github.com/levy-web
+
+# License
+license: ISC
