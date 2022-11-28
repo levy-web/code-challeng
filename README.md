@@ -8,3 +8,7 @@ second program promp entry of speed and outputs ok if speed is less than 70km/s 
 
 Third promts user credit information then it calculates paye and net salary
 
+# Authors
+This project was contributed to by:
+
+
